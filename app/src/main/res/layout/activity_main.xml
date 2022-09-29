@@ -7,6 +7,7 @@
     tools:context=".MainActivity">
 
     <TextView
+        android:id="@+id/texto_hola"
         android:layout_width="105dp"
         android:layout_height="23dp"
         android:text="HOLA MUNDO"
