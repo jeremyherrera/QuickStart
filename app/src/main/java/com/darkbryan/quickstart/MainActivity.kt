@@ -13,6 +13,7 @@ import androidx.appcompat.app.AppCompatActivity
 
          val textView = findViewById<TextView>(R.id.texto_hola)
 
+         textView.text = "HOLA KOTLIN"
 
 
 

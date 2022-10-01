@@ -10,12 +10,12 @@
         android:id="@+id/texto_hola"
         android:layout_width="105dp"
         android:layout_height="23dp"
-        android:text="HOLA MUNDO"
+        android:text="Hello word"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintHorizontal_bias="0.415"
+        app:layout_constraintHorizontal_bias="0.467"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        tools:text="HOLA MUNDO" />
+        tools:text="Hello word" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
