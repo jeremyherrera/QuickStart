@@ -1,6 +1,7 @@
 package com.darkbryan.quickstart
 
 import android.os.Bundle
+import android.util.Log
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 
@@ -11,9 +12,10 @@ import androidx.appcompat.app.AppCompatActivity
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-         val textView = findViewById<TextView>(R.id.texto_hola)
 
-         textView.text = "HOLA KOTLIN"
+
+
+
 
 
 

@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">QuickStart</string>
+    <string name="Hola">HOLA KOTLIN CON TEXTVIEW</string>
 </resources>
